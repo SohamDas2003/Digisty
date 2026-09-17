@@ -26,7 +26,7 @@ const contactInfo = [
   {
     icon: <LocationOnOutlinedIcon sx={{ color: 'primary.main', fontSize: 24 }} />,
     label: 'Visit Us',
-    value: 'Devika Tower, Nehru Place, New Delhi - 110019',
+    value: 'Sector 137, Noida, Uttar Pradesh 201305',
   },
 ];
 
